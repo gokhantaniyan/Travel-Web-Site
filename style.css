@@ -1,0 +1,25 @@
+body{
+    background-image: url(/assets/shillong-2847249\ 1.svg);
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    font-size: 55px;
+    color: white;
+}
+
+h2 { 
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    color: white;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+a {
+    font-family: 'Inter', sans-serif;
+}
